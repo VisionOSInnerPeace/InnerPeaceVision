@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "then",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/freshOS/then.git",
+      "state" : {
+        "revision" : "709112d17ac9f61060b28c86d61d3f0f9b66c08a",
+        "version" : "7.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
